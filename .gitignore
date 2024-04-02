@@ -1,0 +1,6 @@
+# Ignore file containing personal info such as authorization keys
+authorization.txt
+/Setup/scout_creds.json
+.venv
+/Helpers/__pycache__
+.DS_Store

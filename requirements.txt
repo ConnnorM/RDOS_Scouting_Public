@@ -1,0 +1,8 @@
+# Requirements: These are the Python libraries that we need to tell
+# Streamlit Cloud to install so that we can deploy the app to allow
+# other people to use it.
+matplotlib
+gspread
+oauth2client
+path
+streamlit-aggrid
