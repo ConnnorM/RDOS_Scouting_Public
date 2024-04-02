@@ -1,7 +1,7 @@
 # RDOS Scouting System 2024
 ## View the App
 - WARNING: This repo as is will not run the app. There is no FRC API key, Google Cloud credentials file, or virtual environment in this repo. You'll have to make your own using the instructions in this README file.
-- Visit: **insert link to app here** to view the current version of the app
+- Visit: https://rdos-scouting-2024.streamlit.app/ to view the current version of the app
     - NOTE: This repo will only be updated before competitions or when requested. So, it may be outdated compared to what you see at the link above
 ## Getting the App Running Locally
 - Clone the repo from GitHub
