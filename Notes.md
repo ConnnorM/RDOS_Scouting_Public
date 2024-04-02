@@ -2,7 +2,7 @@
 **Todo-List:**
 - get my frc authorization key into the authorization.txt file so i can make the repo public
 - just change event code in one place and have it read it everywhere
-- gotta do all the data cleaning first or stuff breaks :(
+- gotta do all the data cleaning first or stuff breaks :'(
 - teams w/ wrong num matches isn't accurate, says it should always be 9 (I think i hard coded that in to be fair)
 - make separate branch or version for dev and what everyone can see (remove picklist mostly)
 - need a picklist tab, we give it the numbers in order and it gives us some output idk what yet
